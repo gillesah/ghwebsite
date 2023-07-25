@@ -1,3 +1,8 @@
+<link rel="stylesheet" href="css/style_responsive.css">
+<link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/menu.css">
+
+    <link rel="icon" type="image/png" href=" images/favicon.png">
 <header class="page-header">
 	<div class="logo"><a href="index.php"><img src="images/logoGHblc.png" alt="Logo Gilles Helleu"></a>
 </div>
