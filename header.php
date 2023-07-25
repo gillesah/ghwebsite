@@ -11,7 +11,7 @@
 			<li><a href="projects.php">Projects</a></li>
 			<li><a href="experience.php">Experience</a></li>
 			<li><a href="education.php">Education</a></li>
-			<li><a href="https://www.gilleshelleu.com/contact/">Contact</a></li>
+			<li><a href="contact.php">Contact</a></li>
 		</ul>
 	</div>
 

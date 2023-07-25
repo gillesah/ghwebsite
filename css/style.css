@@ -18,9 +18,8 @@ Text Domain:  Le meon Child
 
 :root {
     --maincolor: #fff;
-    --secondcolor: rgb(123, 247, 254);
-    --lightcolor: #809fff;
-    --thirdcolor: #c42222ee;
+    --secondcolor: #001F4F;
+    --thirdcolor: #809fff;
 
     --surlignage: #0000ff;
     --backgroundcolor: #000000;
@@ -53,9 +52,10 @@ header {
 }
 
 /*-------------------  Footer  -----------------------*/
-footer{
+footer {
     text-align: center;
 }
+
 .copyright {
     color: #666;
     text-align: center !important;
@@ -124,7 +124,7 @@ footer{
 .projectbloc {
     display: grid;
     grid-template-columns: 40% 60%;
-    box-shadow: 5px 4px 0px 3px var(--thirdcolor);
+    box-shadow: 5px 4px 0px 3px var(--secondcolor);
     margin-bottom: 4em;
 }
 
@@ -258,13 +258,13 @@ h6 {
 
 h1 {
     font-size: 8em;
-    text-shadow: -1px -1px 0 var(--thirdcolors) 1px -1px 0 #ffffffee, -1px 1px 0 #fff, 1px 1px 0 #fff;
+    text-shadow: -1px -1px 0 var(--thirdcolor), 1px -1px 0 #ffffffee, -1px 1px 0 #fff, 1px 1px 0 #fff;
     color: #000 !important;
-        writing-mode: vertical-rl;
+    writing-mode: vertical-rl;
     text-orientation: sideways;
     position: fixed;
-    margin-left: inherit!important;
-    right: -0.8em!important;
+    margin-left: inherit !important;
+    right: -0.8em !important;
     top: 1em;
     bottom: 0em !important;
     padding-bottom: 0.5em !important;
@@ -341,23 +341,25 @@ p a {
 
 .experiencedate {
     display: flex;
-    flex-direction: column; 
-    align-items: flex-end; 
+    flex-direction: column;
+    align-items: flex-end;
     padding-right: 2em;
 
 }
+
 .experiencedate h2 {
     text-align: right;
-    font-size: 2em!important;
+    font-size: 2em !important;
     vertical-align: top;
     padding-right: 0.8em;
     border-right: 1px solid #fff;
-    margin-top: 0!important;
+    margin-top: 0 !important;
 
 
 }
+
 .experiencecontenu p {
-    font-size: 1.1em!important;
+    font-size: 1.1em !important;
 }
 
 .certificatescontainer {
@@ -368,6 +370,7 @@ p a {
     font-size: 1.3em;
     margin-bottom: 1em;
 }
+
 .certificatesdate {
     text-align: right;
 }
