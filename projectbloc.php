@@ -75,7 +75,7 @@
         <p class="projectdescription">  WordPress – CSS – PHP – Git – Geojson </br>
             website for the departmental elections and coordination of digital communications</p>
       </br>
-        <div class="projectbutton"><button type="button"><a class="button" href="https://www.arnf.fr/"
+        <div class="projectbutton"><button type="button"><a class="button" href="https://hautegaronneencommun.fr/wp-content/uploads/mybox/map.html"
                 target="_blank">Discover the Geojson map</a>
         </button></div>    
     </div>

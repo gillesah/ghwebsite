@@ -20,15 +20,10 @@ Text Domain:  Le meon Child
     --maincolor: #fff;
     --secondcolor: #001F4F;
     --thirdcolor: #809fff;
-
-    --surlignage: #0000ff;
     --backgroundcolor: #000000;
     --backgroundcolor2: rgb(11, 17, 63);
     --mainfont: 'Inter', sans-serif;
     --secondfont: 'Syne', sans-serif;
-    --thirdfont: 'Inter', sans-serif;
-    --loadercolor: #FFFFFF;
-    --margintopcontent: 120px;
 
 }
 
@@ -373,4 +368,61 @@ p a {
 
 .certificatesdate {
     text-align: right;
+}
+
+/* -------------------------------------------------- FORM --------------------------------------- */
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: var(--maincolor);
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid var(--maincolor);
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    margin-bottom: 20px;
+}
+
+input[type="submit"] {
+    --c: var(--maincolor);
+    border-radius: 0px !important;
+    border: none;
+    margin-top: 1em;
+    box-shadow: 0 0 0 .1em inset var(--c);
+    --_g: linear-gradient(var(--c) 0 0) no-repeat;
+    background:
+        var(--_g) calc(var(--_p, 0%) - 100%) 0%,
+        var(--_g) calc(200% - var(--_p, 0%)) 0%,
+        var(--_g) calc(var(--_p, 0%) - 100%) 100%,
+        var(--_g) calc(200% - var(--_p, 0%)) 100%;
+    background-size: 53.5% calc(var(--_p, 0%)/2 + 4%);
+    outline-offset: .1em;
+    transition: background-size .4s, background-position 0s .4s;
+    color: #fff;
+    font-size: 1.6em;
+    font-weight: 600;
+    text-decoration: none;
+    border-radius: inherit !important;
+    padding: 0.3em 1em 0.3em 1em;
+    position: relative;
+    bottom: 1em !important;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    --_p: 100%;
+    transition: background-position .4s, background-size 0s;
+    color: var(--backgroundcolor2) !important;
 }
