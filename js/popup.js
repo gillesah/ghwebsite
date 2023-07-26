@@ -9,8 +9,6 @@ openBtn.addEventListener("click", () => {
 closeBtn.addEventListener("click", () => {
   videoPopup.style.display = "none";
 });
-
-// si l'utilisateur clique n'importe ou
 videoPopup.addEventListener("click", (event) => {
   if (event.target === videoPopup) {
     videoPopup.style.display = "none";

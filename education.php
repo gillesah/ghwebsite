@@ -43,6 +43,10 @@
             <div class="certificatesdate">2023</div>
             <div class="certicatescontenu">OpenClassRooms – Git and Github</div>
             <div class="certificatesdate">2023</div>
+            <div class="certicatescontenu">Créez votre site web avec HTML5 et CSS3</div>
+            <div class="certificatesdate">2023</div>
+            <div class="certicatescontenu">Découvrez le fonctionnement des algorithmes</div>
+            <div class="certificatesdate">2023</div>
             <div class="certicatescontenu">OpenClassRooms – Python</div>
             <div class="certificatesdate">2020</div>
             <div class="certicatescontenu">Proximis training</div>
@@ -53,11 +57,6 @@
             <div class="certificatesdate">2018</div>
             <div class="certicatescontenu">Web accessibility – Atalan</div>
         </div>
-
-
-
-
-
 
     </main>
 </body>
