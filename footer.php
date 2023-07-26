@@ -1,4 +1,6 @@
 <footer>
 <script src="js/burger.js"></script>
-<div class="copyright">©gilleshelleu.com - <a href="mentionslegales.php">Mentions légales</a></div>
+<script src="js/popup.js"></script>
+
+<div class="copyright">©gilleshelleu.com - <a href="legalinformations.php">legal informations</a></div>
 </footer>

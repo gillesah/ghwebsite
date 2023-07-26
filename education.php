@@ -2,10 +2,6 @@
 <html lang="en">
 
 <head>
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/menu.css">
-    <link rel="icon" type="image/png" href=" images/favicon.png">
-
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Education</title>
@@ -44,22 +40,22 @@
 
         <h2>Certificates</h2>
         <div class="certificatescontainer">
-        <div class="certificatesdate">2023</div>
-        <div class="certicatescontenu">OpenClassRooms – Git and Github</div>
-        <div class="certificatesdate">2023</div>
-        <div class="certicatescontenu">OpenClassRooms – Python</div>
-        <div class="certificatesdate">2020</div>
-        <div class="certicatescontenu">Proximis training</div>
-        <div class="certificatesdate">2019</div>
-        <div class="certicatescontenu">Magento training</div>
-        <div class="certificatesdate">2018</div>
-        <div class="certicatescontenu">Web quality – Opquast</div>
-        <div class="certificatesdate">2018</div>
-        <div class="certicatescontenu">Web accessibility – Atalan</div>
+            <div class="certificatesdate">2023</div>
+            <div class="certicatescontenu">OpenClassRooms – Git and Github</div>
+            <div class="certificatesdate">2023</div>
+            <div class="certicatescontenu">OpenClassRooms – Python</div>
+            <div class="certificatesdate">2020</div>
+            <div class="certicatescontenu">Proximis training</div>
+            <div class="certificatesdate">2019</div>
+            <div class="certicatescontenu">Magento training</div>
+            <div class="certificatesdate">2018</div>
+            <div class="certicatescontenu">Web quality – Opquast</div>
+            <div class="certificatesdate">2018</div>
+            <div class="certicatescontenu">Web accessibility – Atalan</div>
         </div>
 
 
-       
+
 
 
 

@@ -64,6 +64,10 @@ footer {
     font-family: var(--mainfont);
     width: 100% !important
 }
+.copyright a {
+    color: #666!important;
+
+}
 
 /*------------------------- HOME Introduction -------------------------------*/
 
@@ -169,7 +173,7 @@ button:hover {
     text-decoration: none !important
 }
 
-
+#openBtn,
 button a {
     --c: var(--maincolor);
     box-shadow: 0 0 0 .1em inset var(--c);
@@ -192,6 +196,7 @@ button a {
     bottom: 1em !important;
 }
 
+#openBtn:hover,
 button a:hover {
     --_p: 100%;
     transition: background-position .4s, background-size 0s;
@@ -431,3 +436,49 @@ input[type="submit"]:hover {
     transition: background-position .4s, background-size 0s;
     color: var(--backgroundcolor2) !important;
 }
+/* -------------------------------------------------- FORM --------------------------------------- */
+video {
+    max-height: 50vw!important;
+} 
+  .popup {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    z-index: 999;
+  }
+  
+  .popup-content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  #openBtn {
+    font-size: 1.4em!important;
+    cursor: pointer;
+  }
+  .close-btn {
+    position: fixed;
+    top: 0em;
+    right: -3em;
+    width: 2em;
+    height: 2em;
+    border: none;
+    background: transparent;
+    font-size: 3em;
+    cursor: pointer;
+  }
+  
+  .close-btn::before {
+    content: "X"; 
+    color: var(--maincolor);
+  }
+
+  

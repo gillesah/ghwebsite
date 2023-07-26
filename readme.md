@@ -1,9 +1,6 @@
+## gilleshelleu.com
+personal portfolio site
+HTML / PHP / JS / CSS
+https://github.com/gillesah/ghwebsite
 
-
-todo: 
-- ajout favicon
-- git
-
-
-app : rajouter un readme
 

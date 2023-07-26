@@ -6,13 +6,20 @@
     <div class="textbloc">
         <h3>Meditation app</h3>
         <p class="projectdate">2023 - project in progress</p>
-        <p class="projectdescription">  Flutter - Dart</br>
-       </p>
-      </br>
-        <div class="projectbutton"><button type="button"><a class="button" href="https://www.arnf.fr/"
-                target="_blank">Discover the website</a>
-        </button></div>    
-        
+        <p class="projectdescription"> Flutter - Dart</br>
+        </p>
+        </br>
+        <div class="projectbutton"><button id="openBtn">Discover the video demo
+            </button></div>
+        <div id="videoPopup" class="popup">
+            <div class="popup-content">
+                <video controls>
+                    <source src="images/videoApp.mp4" type="video/mp4">
+                </video>
+                <button id="closeBtn" class="close-btn"></button>
+            </div>
+        </div>
+
     </div>
 
 </div>
@@ -25,15 +32,15 @@
 
         <h3>MoustiqueTigre.eu</h3>
         <p class="projectdate">2023</p>
-        <p class="projectdescription">  WordPress – CSS – PHP – Git</br>
-        Tiger mosquito information website</p>
-      </br>
-        <div class="projectbutton"><button type="button" class="btn"><a class="button" href="https://www.moustiquetigre.eu/"
-                target="_blank">Discover the
-                website</a>
-        </button></div>
-        
-        
+        <p class="projectdescription"> WordPress – CSS – PHP – Git</br>
+            Tiger mosquito information website</p>
+        </br>
+        <div class="projectbutton"><button type="button" class="btn"><a class="button"
+                    href="https://www.moustiquetigre.eu/" target="_blank">Discover the
+                    website</a>
+            </button></div>
+
+
     </div>
 </div>
 <!-- bloc ARNF -->
@@ -44,12 +51,12 @@
     <div class="textbloc">
         <h3>Arnf.fr</h3>
         <p class="projectdate">2022</p>
-        <p class="projectdescription">  WordPress – CSS – PHP – Git</br>
-        Website for an association</p>
-      </br>
+        <p class="projectdescription"> WordPress – CSS – PHP – Git</br>
+            Website for an association</p>
+        </br>
         <div class="projectbutton"><button type="button"><a class="button" href="https://www.arnf.fr/"
-                target="_blank">Discover the website</a>
-        </button></div>    
+                    target="_blank">Discover the website</a>
+            </button></div>
     </div>
 </div>
 <!-- bloc Robot -->
@@ -61,7 +68,7 @@
         <h3>Robot – project in progress</h3>
         <p class="projectdate">2023</p>
         <p class="projectdescription"> </br>
-        Development of a robot based on the Elogoo Robot</p>       
+            Development of a robot based on the Elogoo Robot</p>
     </div>
 </div>
 <!-- bloc HGEC -->
@@ -72,12 +79,13 @@
     <div class="textbloc">
         <h3>Haute-Garonne en commun</h3>
         <p class="projectdate">2021</p>
-        <p class="projectdescription">  WordPress – CSS – PHP – Git – Geojson </br>
+        <p class="projectdescription"> WordPress – CSS – PHP – Git – Geojson </br>
             website for the departmental elections and coordination of digital communications</p>
-      </br>
-        <div class="projectbutton"><button type="button"><a class="button" href="https://hautegaronneencommun.fr/wp-content/uploads/mybox/map.html"
-                target="_blank">Discover the Geojson map</a>
-        </button></div>    
+        </br>
+        <div class="projectbutton"><button type="button"><a class="button"
+                    href="https://hautegaronneencommun.fr/wp-content/uploads/mybox/map.html" target="_blank">Discover
+                    the Geojson map</a>
+            </button></div>
     </div>
 </div>
 <!-- bloc Ellande -->
@@ -88,11 +96,12 @@
     <div class="textbloc">
         <h3>Ellande Jaureguiberry</h3>
         <p class="projectdate">2016</p>
-        <p class="projectdescription">  WordPress – CSS – PHP</br>
-        Creation of a website for artist Ellande Jaureguiberry. Customization of template and addition of functionalities
-    </br>
+        <p class="projectdescription"> WordPress – CSS – PHP</br>
+            Creation of a website for artist Ellande Jaureguiberry. Customization of template and addition of
+            functionalities
+            </br>
         <div class="projectbutton"><button type="button"><a class="button" href="http://ellandejaureguiberry.com/"
-                target="_blank">Discover the website</a>
-        </button></div>    
+                    target="_blank">Discover the website</a>
+            </button></div>
     </div>
 </div>

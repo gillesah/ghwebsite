@@ -6,7 +6,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = $_POST["message"];
 
     $recipient = "helleugilles@gmail.com";
-    $subject = "New message from the contact form";
+    $subject = "New message gh website";
     $message_body = "First Name: $first_name\nLast Name: $last_name\nEmail: $email\nMessage:\n$message";
     mail($recipient, $subject, $message_body);
 
