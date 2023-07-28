@@ -1,6 +1,7 @@
 ## gilleshelleu.com
 personal portfolio site
 HTML / PHP / JS / CSS
-https://github.com/gillesah/ghwebsite
+https://github.com/gillesah/gilleshelleu
+
 
 
