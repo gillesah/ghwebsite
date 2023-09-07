@@ -41,7 +41,7 @@
         <h2>Certificates</h2>
         <div class="certificatescontainer">
         <div class="certificatesdate">2023</div>
-            <div class="certicatescontenu">Apprenez la programmation orientée objet avec Python</div>
+            <div class="certicatescontenu">OpenClassRooms – Programmation orientée objet avec Python</div>
             <div class="certificatesdate">2023</div>
             <div class="certicatescontenu">OpenClassRooms – Git and Github</div>
             <div class="certificatesdate">2023</div>
