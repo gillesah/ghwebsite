@@ -13,9 +13,9 @@
 
 	<div id="menu">
 		<ul>
-			<li><a href="projects.php">Projects</a></li>
-			<li><a href="experience.php">Experience</a></li>
-			<li><a href="education.php">Education</a></li>
+			<li><a href="projects.php">Projets</a></li>
+			<li><a href="experience.php">Expérience</a></li>
+			<li><a href="education.php">Formations</a></li>
 			<li><a href="contact.php">Contact</a></li>
 		</ul>
 	</div>

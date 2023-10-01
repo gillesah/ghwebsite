@@ -13,14 +13,11 @@
 
     <main id="content">
       <div class="blocintro">
-        <div class="titleintro"><h2> Future <strong>Python</strong> developer</h2></div>
-        <div class="introtext"><p>Having had a passion for IT since a very young age, I have developed solid expertise in web design and project management. With a wide range of professional experience, 
-          I have acquired skills in communication, development and management, which enable me to combine a creative vision with a pragmatic approach. 
-          My future goal is to become a great Python developer. 
-          I want to contribute to technological progress by creating innovative applications that push back the limits of autonomy and intelligent interaction with our environment. </p></div>
+        <div class="titleintro"><h2> Concepteur <strong>Développeur</strong>  d'applications <strong> Python</strong></h2></div>
+        <div class="introtext"><p>Fort d’un parcours de plus de 15 ans dans la communication digitale, je suis actuellement en formation chez Diginamic, pour devenir Concepteur Développeur d’Applications Big Data Python, un parcours soutenu par la région Occitanie. Mon expérience comme chef de projet digital et consultant UX m’a doté d’une vision globale de la création d’applications. Avec un souhait affirmé de me spécialiser en Python, j'aspire aujourd’hui à intégrer une équipe dynamique de développeurs.</p></div>
       </div>
       <div>
-        <h2>Portfolio – <strong>projects</strong></h2>
+        <h2>Portfolio – <strong>projets</strong></h2>
         <?php include 'projectbloc.php' ?>
 
       </div>
